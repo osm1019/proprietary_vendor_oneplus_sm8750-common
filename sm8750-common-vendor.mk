@@ -737,6 +737,7 @@ PRODUCT_PACKAGES += \
     com.google.android.widevine.nonupdatable \
     TimeService \
     ConsumerIRApp \
+    Melody \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentYGoogleHEXAGON_WIDEBAND \
     QCC \
